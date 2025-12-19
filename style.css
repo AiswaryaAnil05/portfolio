@@ -1,0 +1,115 @@
+
+.card1{
+    color: #b4bdcb;
+    padding: 3rem; 
+    background-color: #111827;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid #1f2933;
+    width: 30%;
+    height: 40vh;
+    margin-top: 7%;
+    margin-left: 10%;
+    text-align: left;
+}
+
+.card1 h3{
+    color: green;
+}
+
+.card2{
+    color: #b4bdcb;
+    padding: 3rem; 
+    background-color: #111827;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid #1f2933;
+    width: 30%;
+    height: 40vh;
+    margin-top: 7%;
+    margin-right: 10%;
+    text-align: left;
+}
+
+.card2 h3{
+    color: green;
+}
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+body {
+  background-color: #0b0f14;
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  gap: 2.5rem;
+  padding: 1.5rem 0;
+}
+
+nav a {
+  color: #9ca3af;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: large;
+}
+
+.card {
+  margin: 100px auto;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 3rem; 
+  background-color: #111827;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid #1f2933;
+}
+
+.card3{
+  max-width: 600px;
+  margin-top: 80px;
+  margin-left: 300px;
+  margin-bottom: 80px;
+  padding: 2rem; 
+  line-height: 1.5;
+  background-color: #111827;
+  border-radius: 10px;
+  text-align: center;
+  color: #b4bdcb;
+  border: 1px solid #1f2933;
+}
+
+
+.intro {
+  color: #b4bdcb;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.name {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-family: 'Inter', sans-serif;
+  color: green;
+}
+
+.card p {
+  color:#b4bdcb;
+  line-height: 1.7;
+  font-size: 1rem;
+  font-family: 'Inter', sans-serif;
+}
+
+h1{
+     color: green;
+}
